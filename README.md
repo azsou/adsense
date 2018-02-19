@@ -9,3 +9,6 @@ liina(Zz1), 282@q google adsense .cn, code
     enable_page_level_ads: true
   });
 </script>
+
+# URI
+https://www.google.com/adsense/new/u/0/pub-3826640377705269/home
