@@ -12,3 +12,6 @@ liina(Zz1), 282@q google adsense .cn, code
 
 # URI
 https://www.google.com/adsense/new/u/0/pub-3826640377705269/home
+
+# PAYMENT
+https://payments.google.com/payments/home
